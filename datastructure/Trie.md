@@ -16,4 +16,4 @@ Trie(트라이)
 최종 메모리는 O(포인터 크기 * 포인터 배열 개수 * 트라이에 존재하는 총 노드의 개수)가 된다.
 
 ### 구현
-[github](https://github.com/parkdaye/Algorithm-study/blob/master/src/programmers/kakao/blind2020/LyricsSearch.java, "github link")
+[github](https://github.com/parkdaye/Algorithm-study/blob/master/src/programmers/kakao/blind2020/LyricsSearch.java)
